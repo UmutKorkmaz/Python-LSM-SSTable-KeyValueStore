@@ -46,4 +46,4 @@ python main.py
 ```
 
 
-[Türkçe sürüm için buraya tıklayın](README_TR.md)
+[Click here for the English version](README.md)
